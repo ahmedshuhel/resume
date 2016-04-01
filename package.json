@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedshuhel/resume.git"
+  },
+  "author": "Shuhel Ahmed <Shuhel Ahmed>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedshuhel/resume/issues"
+  },
+  "homepage": "https://github.com/ahmedshuhel/resume#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
