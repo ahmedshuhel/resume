@@ -130,7 +130,7 @@ C&E Software Solutions Ltd
 
 #### Hobbies and Interests
 - Reading code written by other programmers/developers on Github
-- Reading/learning the history and evaluation of programming languages.
+- Reading/learning the history and evolution of programming languages.
 - Contributing to open source projects (I am also core team member of popular next generation single page application framework Aurelia)
 - Playing with different programming languages (Currently Learning Rust), 
 - Watching movies specially animation movies 
