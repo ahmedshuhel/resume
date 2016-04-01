@@ -3,6 +3,7 @@ Sylhet, Bangladesh
 Email: shuhel@ymail.com  
 Github: http://github.com/ahmedshuhel  
 
+---
 
 #### Summary
 Full stack software engineer offering seven years of experience in building web and desktop applications and distributed systems.  
@@ -41,12 +42,9 @@ I am also exposed to C/C++, Rust, Java, PHP, Go, F#, Haskell, Ruby etc.
 
 #### Experience
 
----
 2012-Present  
 Senior Software Engineer  
 C&E Software Solutions  
-
----
 
 **Project:** ERP for Bangladesh Army
 
@@ -98,12 +96,9 @@ Lead the development effort of company’s flagship product Hospital ERP, design
 - Wrote the integration with Proximity Reader (Biometric and RFID) for attendece system and feed this data to the payroll system.
 - Providing maintainence and bug fixes to companys lagecy systems/prducts taht are crucial to customers and their business.
 
----
 Software Developer  
 2010 - 2012  
 Independent Developer  
-
----
 
 **Project:** Restaurant Management & Online Ordering System.
 
@@ -126,13 +121,9 @@ Delveloped a restaurant management system (RMS) with online ordering that is bei
 
 **Technology:** C#, .NET, Winform JavaScript, Typescript, AngularJS, Angular Material, Web API, Hangfire, SQL Server, MS Deploy, Ninject, EntiryFramwork, PetaPoco, Windows Server, IIS, MomentJS, Linq, Moq, xUnit, TeamCity, VisualStudio, Vim,  YouTrack, Gulp
 
----
-
 Software Engineer  
 2008 - 2010  
 C&E Software Solutions Ltd  
-
----
 
 - Wrote C# and winform applications that monitors hardware status, record sales, stock and billing to customer for a Drinking Water Plant and distribution company that serves over 20000 customer. 
 - Wrote advanced algorithms in C# to detect imminent system failure extracting various parameters from hardware log files, which were used within the application.
@@ -154,4 +145,3 @@ B.Sc., Computer Science & Engineering
 #### Natural Language Proficiency 
 Bangla: Good.  
 English: I can interact with a degree of fluency and spontaneity with native speakers on both technical and non-technical subjects. I also can produce clear, detailed text and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
-
