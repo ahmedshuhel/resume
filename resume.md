@@ -1,39 +1,63 @@
-## Summary
+## Shuhel Ahmed
+shuhel@ymail.com
+http://github.com/ahmedshuhel
+
+### Summary
 Full stack software engineer offering seven years of experience in building web and desktop applications and distributed systems.
+
 Extensive experience in Agile Development, Test-Driven Development, Domain Driven Design, Object-Oriented Design, Service Oriented Architecture.
+
 Experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
+
 Known for excellent troubleshooting/debugging skills – able to analyze code and engineer well-researched, cost-effective, responsive solutions.
+
 An excellent problem-solver, able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues.
 
-## Key areas:
+### Key areas:
 Programming, Enterprise Applications, Distributed Applications, Agile, Databases (SQL/NoSQL), Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, SOA, MVVM, MVP, MVC, User Experience.
-## Technology Stack
-Client Side: DurandalJS, AngularJS, Angular Material, Aurelia, jQuery, HTML, CSS, JSPM, RequireJS, SystemJS, Cordova, ReactiveUI, Xamarin, Winforms, WPF
+
+### Technology Stack
+Client Side: DurandalJS, AngularJS, Angular Material, Aurelia, jQuery, HTML, CSS, JSPM, RequireJS, SystemJS, Cordova, ReactiveUI, Xamarin, Winforms, WPF.
+
 Server Side: C#, .NET, ASP.NET, ASP.NET MVC, Web API, JavaScript/NodeJS, EntityFramework, NHibernate, xUnit, NUnit, Moq, Owin, OpenID Connect, Topshelf, Windows Service, Hangfire, Log4Net, NLog, FluentMigrator, Castle Windsor, Ninject, Automapper, EasyNetQ 
+
 Database:  MS SQL Server, MySQL, Oracle, MongoDB, RavenDB, RethinkDB 
+
 IDE/Text Editors: Vim, Visual Studio, WebStorm, IntelliJ Idea, Sublime, Atom, VSCode
+
 SCM: Git, Mercurial, Subversion
+
 CI: TeamCity, 
+
 Project Management/Issue Tracker: Youtrack, TargetProcess
+
 Queue: RabbitMQ, MSMQ
+
 Service Bus: MassTransit
+
 UI Prototyping: Axure RP
+
 Operating System: Windows, Linux 
 
-## Programming Language
+### Programming Language
 
- Language    Level           Known since
-  C#          Advanced        2005
-  JavaScript  Advanced        2009
-  Typescript  Intermediate     2014
-  VB.NET      Intermediate     2009
+|-----------|--------------|------------|
+| Language  |Level         | Known since|
+|-----------|--------------|------------|
+| C#        | Advanced     |2005        |
+| JavaScript| Advanced     |2009        |
+| Typescript| Intermediate |2014        |
+| VB.NET    | Intermediate |2009        |
+|-----------|--------------|------------|
 
 I am also exposed to C/C++, Rust, Java, PHP, Go, F#, Haskell, Ruby etc.
 
-## Experience:
+### Experience:
+
 2010-Present
 Senior Software Engineer
 C&E Software Solutions
+
 Project: ERP for Bangladesh Army
 Developed and maintained an ERP solution for one of the largest government organizations of Bangladesh (Bangladesh Army) with over 150000 users. The system manages 820 units located across the country and over 250000 people. The solutions consists of several modules like HRM, Accounting, Training, Result Processing, Stock & Inventory, Ration Management, POL Management etc. 
 Highlights:
