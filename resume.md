@@ -1,65 +1,55 @@
 ## Shuhel Ahmed
-shuhel@ymail.com
+Sylhet, Bangladesh  
+Email: shuhel@ymail.com  
+Github: http://github.com/ahmedshuhel  
 
-http://github.com/ahmedshuhel
 ---
 
 ### Summary
-Full stack software engineer offering seven years of experience in building web and desktop applications and distributed systems.
-
-Extensive experience in Agile Development, Test-Driven Development, Domain Driven Design, Object-Oriented Design, Service Oriented Architecture.
-
-Experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
-
-Known for excellent troubleshooting/debugging skills – able to analyze code and engineer well-researched, cost-effective, responsive solutions.
-
-An excellent problem-solver, able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues.
+Full stack software engineer offering seven years of experience in building web and desktop applications and distributed systems.  
+Extensive experience in Agile Development, Test-Driven Development, Domain Driven Design, Object-Oriented Design, Service Oriented Architecture.  
+Experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.  
+Known for excellent troubleshooting/debugging skills – able to analyze code and engineer well-researched, cost-effective, responsive solutions.  
+An excellent problem-solver, able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues.  
 
 ### Key areas:
 Programming, Enterprise Applications, Distributed Applications, Agile, Databases (SQL/NoSQL), Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, SOA, MVVM, MVP, MVC, User Experience.
 
 ### Technology Stack
-Client Side: DurandalJS, AngularJS, Angular Material, Aurelia, jQuery, HTML, CSS, JSPM, RequireJS, SystemJS, Cordova, ReactiveUI, Xamarin, Winforms, WPF.
-
-Server Side: C#, .NET, ASP.NET, ASP.NET MVC, Web API, JavaScript/NodeJS, EntityFramework, NHibernate, xUnit, NUnit, Moq, Owin, OpenID Connect, Topshelf, Windows Service, Hangfire, Log4Net, NLog, FluentMigrator, Castle Windsor, Ninject, Automapper, EasyNetQ 
-
-Database:  MS SQL Server, MySQL, Oracle, MongoDB, RavenDB, RethinkDB 
-
-IDE/Text Editors: Vim, Visual Studio, WebStorm, IntelliJ Idea, Sublime, Atom, VSCode
-
-SCM: Git, Mercurial, Subversion
-
-CI: TeamCity, 
-
-Project Management/Issue Tracker: Youtrack, TargetProcess
-
-Queue: RabbitMQ, MSMQ
-
-Service Bus: MassTransit
-
-UI Prototyping: Axure RP
-
-Operating System: Windows, Linux 
+**Client Side:** DurandalJS, AngularJS, Angular Material, Aurelia, jQuery, HTML, CSS, JSPM, RequireJS, SystemJS, Cordova, ReactiveUI, Xamarin, Winforms, WPF.  
+**Server Side:** C#, .NET, ASP.NET, ASP.NET MVC, Web API, JavaScript/NodeJS, EntityFramework, NHibernate, xUnit, NUnit, Moq, Owin, OpenID Connect, Topshelf, Windows Service, Hangfire, Log4Net, NLog, FluentMigrator, Castle Windsor, Ninject, Automapper, EasyNetQ  
+**Database:**  MS SQL Server, MySQL, Oracle, MongoDB, RavenDB, RethinkDB  
+**IDE/Text Editors:** Vim, Visual Studio, WebStorm, IntelliJ Idea, Sublime, Atom, VSCode  
+**SCM:** Git, Mercurial, Subversion  
+**CI:** TeamCity  
+**Project Management/Issue Tracker:** Youtrack, TargetProcess  
+**Queue:** RabbitMQ, MSMQ  
+**Service Bus:** MassTransit  
+**UI Prototyping:** Axure RP  
+**Operating System:** Windows, Linux   
+**Shell:** Bash, PowerShell, CMD  
 
 ### Programming Language
 
 | Language  |Level         | Known since |
 |-----------|--------------|------------:|
 | C#        | Advanced     |2005         |
-| JavaScript| Advanced     |2009         |
+| JavaScript| Advanced     |2007         |
 | Typescript| Intermediate |2014         |
 | VB.NET    | Intermediate |2009         |
 
 I am also exposed to C/C++, Rust, Java, PHP, Go, F#, Haskell, Ruby etc.
 
-### Experience:
+### Experience
 
-2010-Present
-Senior Software Engineer
-C&E Software Solutions
+2010-Present  
+Senior Software Engineer  
+C&E Software Solutions  
 
 Project: ERP for Bangladesh Army
+
 Developed and maintained an ERP solution for one of the largest government organizations of Bangladesh (Bangladesh Army) with over 150000 users. The system manages 820 units located across the country and over 250000 people. The solutions consists of several modules like HRM, Accounting, Training, Result Processing, Stock & Inventory, Ration Management, POL Management etc. 
+
 Highlights:
 - Wrote a visual query builder and a search platform that operates on a highly de-normalized data repository containing huge volume of data.
 - Wrote high performance, secure and reliable REST-full Web API leveraging asynchronous programming technique; concurrency challenges needed to be overcome at the database and application layers
@@ -77,8 +67,7 @@ Highlights:
 - Contributed software engineering expertise in the development of products through the software lifecycle, from requirements definition through successful deployment.
 - Introduced methodologies and best practices that enhanced product definition, testing, release processes and earning the highest customer satisfaction.
 
-Technology: 
-C#, .NET, JavaScript, Typescript, Web API, ASP.NET MVC, Windows Service, RabbitMQ, SQL Server, MS Deploy, TopShelf, EasyNetQ, Ninject, EntiryFramwork, Fluent Migrator, PetaPoco, CLI,  DurandalJS, KnockoutJS, Bootstrap, Less, Windows Server, IIS, Moment, Linq, PowerShell, Moq,  xUnit, TeamCity, VisualStudio, Vim, YouTrack, Hangfire
+Technology: C#, .NET, JavaScript, Typescript, Web API, ASP.NET MVC, Windows Service, RabbitMQ, SQL Server, MS Deploy, TopShelf, EasyNetQ, Ninject, EntiryFramwork, Fluent Migrator, PetaPoco, CLI,  DurandalJS, KnockoutJS, Bootstrap, Less, Windows Server, IIS, Moment, Linq, PowerShell, Moq,  xUnit, TeamCity, VisualStudio, Vim, YouTrack, Hangfire
 
 Project: Hospital Management System
 
@@ -94,14 +83,13 @@ Highlights:
 - Developed analytical reporting by writing cross database complex sql queries.
 - Improved database peformaces by analyzing frequent quries and creating indexes.  
 - Created a high fidelity mock up’s using Auxre RP and shared with stake holders and users to understand the true user experience. 
-- Wrote tasks (gulp) to automate development process.
+- Wrote tasks (gulp) to automate development and build process.
 - Wrote script with JavaScript/NodeJS using regular expressions that read/parse application code(C# XML, HTML and Javascript) and change/inject code based on the configuration - achieving faster deployment to multiple customer.
 - Provided training to junior developers for TDD/BDD and other devepment framwork like AngularJS, Angular Material 
 
-Technology: 
-C#, .NET, JavaScript, Typescript, AngularJS, Angular Material, Web API, Hangfire, SQL Server, MS Deploy, Ninject, EntiryFramwork, PetaPoco, Windows Server, IIS, MomentJS, Linq, Moq, xUnit, TeamCity, VisualStudio, Vim,  YouTrack, Gulp
+Technology: C#, .NET, JavaScript, Typescript, AngularJS, Angular Material, Web API, Hangfire, SQL Server, MS Deploy, Ninject, EntiryFramwork, PetaPoco, Windows Server, IIS, MomentJS, Linq, Moq, xUnit, TeamCity, VisualStudio, Vim,  YouTrack, Gulp
 
-Other:
+#### Other:
 
 - Improved code quality and statbilty by gradully refactoring and adding new feature of companies one of the flagship products (Point of Sale) that spike the customer grouh from 5 to over 120 in 6 months.
 - Intorducing database versioning and data migration facility from other product  and also from old version of our product.
@@ -115,6 +103,8 @@ Independent Developer
 Project: Restaurant Management & Online Ordering System.
 
 Delveloped a restaurant management system (RMS) with online ordering that is being used by over 50 UK restaurants 
+
+Highlights:
 - Developed and evolved a touch based UI with winforms that workes with POS terminal by carefully overving usage pattern that user just love to use.
 - Developed a MVC framwork for winfoms and used in the application esuring clear speration of concerns.
 - Integration hardware like POS printer, caller Id with COM, USB and serial ports, 
@@ -129,9 +119,12 @@ Delveloped a restaurant management system (RMS) with online ordering that is bei
 - Implemented an OAuth2 authorization/authentication using IdenentityFramework.
 - Wrote in process CQRS backend using MediatR seperating Command and Query.
 
-Software Engineer
-2008 - 2010
-C&E Software Solutions Ltd
+Technology: C#, .NET, JavaScript, Typescript, AngularJS, Angular Material, Web API, Hangfire, SQL Server, MS Deploy, Ninject, EntiryFramwork, PetaPoco, Windows Server, IIS, MomentJS, Linq, Moq, xUnit, TeamCity, VisualStudio, Vim,  YouTrack, Gulp
+
+Software Engineer  
+2008 - 2010  
+C&E Software Solutions Ltd  
+
 - Wrote C# and winform applications that monitors hardware status, record sales, stock and billing to customer for a Drinking Water Plant and distribution company that serves over 20000 customer. 
 - Wrote advanced algorithms in C# to detect imminent system failure extracting various parameters from hardware log files, which were used within the application.
 - Wrote a billing system for a supremarket using C#, .NET and Winforms that  
@@ -143,16 +136,13 @@ C&E Software Solutions Ltd
 - Reading/learning the history and evaluation of programming languages.
 - Contributing to open source projects (I am also core team member of popular next generation single page application framework Aurelia)
 - Playing with different programming languages (Currently Learning Rust), 
-- Working on my PET projects (currently designing height adjustable work desk using solidworks)
 - Watching movies specially animation movies 
 
 ### Education
-
-Metropolitan University – Sylhet, Bangladesh
-2003 - 2007
+Metropolitan University – Sylhet, Bangladesh  
 B.Sc., Computer Science & Engineering
 
 ### Natural Language Proficiency 
-Bangla: Good.
+Bangla: Good.  
 English: I can interact with a degree of fluency and spontaneity with native speakers on both technical and non-technical subjects. I also can produce clear, detailed text and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
 
