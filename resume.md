@@ -1,6 +1,8 @@
 ## Shuhel Ahmed
 shuhel@ymail.com
+
 http://github.com/ahmedshuhel
+---
 
 ### Summary
 Full stack software engineer offering seven years of experience in building web and desktop applications and distributed systems.
@@ -41,14 +43,12 @@ Operating System: Windows, Linux
 
 ### Programming Language
 
-|-----------|--------------|------------|
-| Language  |Level         | Known since|
-|-----------|--------------|------------|
-| C#        | Advanced     |2005        |
-| JavaScript| Advanced     |2009        |
-| Typescript| Intermediate |2014        |
-| VB.NET    | Intermediate |2009        |
-|-----------|--------------|------------|
+| Language  |Level         | Known since |
+|-----------|--------------|------------:|
+| C#        | Advanced     |2005         |
+| JavaScript| Advanced     |2009         |
+| Typescript| Intermediate |2014         |
+| VB.NET    | Intermediate |2009         |
 
 I am also exposed to C/C++, Rust, Java, PHP, Go, F#, Haskell, Ruby etc.
 
@@ -138,7 +138,7 @@ C&E Software Solutions Ltd
 - Enhanced, refined and customized C&E Hospital Management and C&E Accounting System for individual client needs and then worked with engineers to ensure successfull installation at client sites.
 - Assisted in the design and development web based application for a money exchange company using PHP and MySQL. 
 
-## Hobbies and Interests
+### Hobbies and Interests
 - Reading code written by other programmers/developers on Github
 - Reading/learning the history and evaluation of programming languages.
 - Contributing to open source projects (I am also core team member of popular next generation single page application framework Aurelia)
@@ -146,13 +146,13 @@ C&E Software Solutions Ltd
 - Working on my PET projects (currently designing height adjustable work desk using solidworks)
 - Watching movies specially animation movies 
 
-## Education
+### Education
 
 Metropolitan University – Sylhet, Bangladesh
 2003 - 2007
 B.Sc., Computer Science & Engineering
 
-## Natural Language Proficiency 
+### Natural Language Proficiency 
 Bangla: Good.
 English: I can interact with a degree of fluency and spontaneity with native speakers on both technical and non-technical subjects. I also can produce clear, detailed text and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
 
