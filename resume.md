@@ -78,7 +78,7 @@ Highlights:
 - Wrote and structured the backend API by physically isolating them into Bounded Contexts, delivered the API via Web API framework ensuring RESTfull characteristics. 
 - Integrated with OpenID Connect based authentication/authorization servers for single sign on across multiple apps/sub modules.
 - Wrote printing services that enables silent printing for various receipts overcoming browsers limitation of handling printer directly.
-- Wrote jobs/background tasks using Hangfire applies recurrent services for in-patients.
+- Wrote jobs/background tasks using Hangfire that applies recurrent services for in-patients.
 - Developed analytical reports by writing cross database complex sql queries and in memory processing.
 - Improved database performance by analyzing frequent queries and creating indexes.  
 - Created a high fidelity mock up’s using Auxre RP and shared with stake holders and users to understand the true user experience. 
@@ -90,7 +90,7 @@ Technology: C#, .NET, JavaScript, Typescript, AngularJS, Angular Material, Web A
 
 **Others:**
 
-- Improved code quality and stability by gradually refactoring and adding new feature for company's major (Point of Sale) that spiked the customer growth from 5 to over 120 in 6 months.
+- Improved code quality and stability by gradually refactoring and adding new feature for company's major product (Point of Sale) that spiked the customer growth from 5 to over 120 in 6 months.
 - Implemented database versioning and data migration facility from other product and also from old version of our product to new version of POS system.
 - Wrote integration code for Proximity Reader (Biometric and RFID) for Attendance system and fed this data to the payroll system.
 - Provided maintenance and bug fixes to company's legacy systems/products that are crucial to customers and their business.
@@ -108,10 +108,10 @@ Highlights:
 - Developed a MVC framework for winforms with SPA like experience and used in the application.
 - Integrated with hardware like POS printer, Label Printer, Caller Id via direct interfacing COM, USB and serial ports interfacing as well as supporting **OPOS** standards via POS.NET.
 - Wrote RCW(Runtime Callable Wrapper) for third party COM based SDK and used in the application. 
-- Wrote a string utility library for creating ***Text Based*** receipts. 
+- Wrote a string utility library for creating "Text Based" receipts. 
 - Created a windows installer for the application with WIX that also creates the backend database and let's user configure the system during installation.
 - Developed SPA application that talks to backend API using AngularJS and Angular Material.
-- Integrated with Payment Gateways - receiving payment response with web hooks using a custom secure protocol and fail tolerant way that confirms the successful order placement.
+- Integrated with Payment Gateways - receiving payment response with web hooks using a custom secure protocol in a fail tolerant way that confirms the successful order placement.
 - Wrote code that imports Post Code and Address data from Royal Mail and use that to integrate with Google maps.
 - Created windows service with TopShelf that acts as a web server and hosts the online ordering system.
 - Wrote in-process CQRS style backend using MediatR and delivered via Web API.
@@ -129,11 +129,11 @@ C&E Software Solutions Ltd
 - Enhanced, refined and customized C&E Hospital Management and C&E Accounting System for individual client needs and then worked with engineers to ensure successful installation at client sites.
 
 #### Hobbies and Interests
-- Reading code written by other programmers/developers on Github
+- Reading code written by other programmers/developers on Github.
 - Reading/learning the history and evolution of programming languages.
-- Contributing to open source projects (I am also core team member of popular next generation single page application framework Aurelia)
-- Playing with different programming languages (Currently Learning Rust), 
-- Watching movies specially animation movies 
+- Contributing to open source projects. (I am also core team member of popular next generation single page application framework Aurelia)
+- Playing with different programming languages. (Currently Learning Rust) 
+- Watching movies specially animation movies. 
 
 #### Education
 Metropolitan University – Sylhet, Bangladesh, 2008  
