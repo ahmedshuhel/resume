@@ -8,8 +8,8 @@ Blog: https://blog.ahmedshuhel.com
 
 #### Summary
 
-- Full-stack software engineer offering 11 years of experience working in a variety of environments with a breadth of programs and technologies.
-- Extensive experience in Agile Development, Test-Driven Development, Domain Driven Design, Object-Oriented Design, Service Oriented Architecture.
+- Full-stack software engineer offering 10+ years of experience working in a variety of environments with a breadth of programs and technologies.
+- Extensive experience in Agile Development, Test-Driven Development, Domain-Driven Design, Object-Oriented Design, Service Oriented Architecture.
 - Experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
 - Known for excellent troubleshooting/debugging skills – able to analyze code and engineer well-researched, cost-effective, responsive solutions.
 - Experience in building high traffic web applications and APIs, large-scale data processing systems on the AWS Platform.
@@ -23,8 +23,6 @@ Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven d
 **Client Side:** JavaScript, React, Aurelia, DurandalJS, AngularJS, Winforms, WPF.
 **Server Side:** Python, .NET, Node.
 **Database:**  MS SQL Server, MySQL, MongoDB
-**Shell:** Zsh, Bash, PowerShell, CMD
-**SCM:** Git, Mercurial, Subversion
 **UI Prototyping:** Axure RP
 **Operating System:** Windows, Linux
 
@@ -37,7 +35,7 @@ Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven d
 | C#        | Professional |2005         |
 | Typescript| Intermediate |2014         |
 
-I am also exposed to C/C++, Rust, Java, Go, F# etc.
+I am also exposed to C/C++, Rust, Java, Go, F#, etc.
 
 #### Experience
 2016-Present
@@ -53,7 +51,7 @@ NewsCred Inc.
 - Led the effort in splitting a monolithic system into independent microservices and gained speed of delivery.
 - Wrote services and APIs on AWS EC2 using Django REST Framework, Flask, NodeJS, MySQL, and Elasticsearch, automated infrastructure management using Ansible, built CI/CD pipelines using Jenkins.
 - Help NewsCred in managing its growing engineering team, coach engineers on improving their skills and helping them deliver value incrementally, own the team's technical backlog and partner with the Product Manager on planning activities.
-- Line manage a group talented software engineers, guide them to perform on their highest potential and achieve their career goal by providing regular feedback and conducting one on ones.
+- Line manage a group of talented software engineers, guide them to perform on their highest potential and achieve their career goal by providing regular feedback and conducting one on ones.
 - As one of the architects, consult and guide teams to build/design scalable system architecture, ensure the quality of delivery.
 
 
@@ -69,7 +67,7 @@ C&E Software Solutions
 
 **Project:** ERP
 
-Developed and maintained an ERP solution for one of the largest government organizations with over 150000 users. The system manages 820 units located across the country and over 250000 people. The solutions consists of several modules like HRM, Accounting, Training, Result Processing, Stock & Inventory, Ration Management, POL Management, Point of Sale etc.
+Developed and maintained an ERP solution for one of the largest government organizations with over 150000 users. The system manages 820 units located across the country and over 250000 people. The solutions consist of several modules like HRM, Accounting, Training, Result Processing, Stock & Inventory, Ration Management, POL Management, Point of Sale, etc.
 
 
 *Highlights*:
@@ -81,10 +79,9 @@ Developed and maintained an ERP solution for one of the largest government organ
 - Wrote CLI tools in C# to facilitate ETL (Extract Transform Load) from sources including CSV, Excel Sheet, Oracle, and MySQL to SQL Server.
 - Wrote/implemented an algorithm in C# to arrange/sort c# DTO types/objects in terms of dependency during runtime that facilitated reliable change detection and updating/patching.
 
-
 **Project:** Hospital Management System
 
-Lead the development effort of company’s flagship product, Hospital ERP. This complex system consists several sub modules including: OPD, IPD, Nursing Station, Admission, Emergency, OT, Day Care Center, Diagnostic Center, Follow Up and Prescription, MRD, MIS, and Accounting, Billing, Payroll, HRM etc.
+Lead the development effort of the company’s flagship product, Hospital ERP. This complex system consists several sub-modules including OPD, IPD, Nursing Station, Admission, Emergency, OT, Day Care Center, Diagnostic Center, Follow Up and Prescription, MRD, MIS, and Accounting, Billing, Payroll, HRM, etc.
 
 *Highlights*:
 - Led effort in requirement gathering and analysis by collaborating with domain experts and stakeholders
@@ -96,15 +93,13 @@ Lead the development effort of company’s flagship product, Hospital ERP. This 
 - Improved database performance by analyzing frequent queries and creating indexes.
 - Provided training to junior developers on TDD/BDD and other frameworks like AngularJS, Angular Material, ASP.NET MVC, etc.
 
-
 Software Developer
 2010 - 2012
-PosCube(Independent Developer)
+PosCube: (Independent Developer)
 
 **Project:** Restaurant Management & Online Ordering System.
 
 Designed and developed a restaurant management system (RMS) and integrated online order processing system that is being used by over 150 UK restaurants. The system is designed and optimized for POS hardware.
-
 
 *Highlights*:
 - Developed and evolved a touch-based UI with WinForms that works with POS terminal by carefully observing usage patterns - achieving a level of user-friendliness that sets us apart.
@@ -116,13 +111,11 @@ Integrated with hardware like POS printer, Label Printer, Caller Id via direct i
 - Wrote code that imports Postal Code and Address data from Royal Mail and use that to integrate with Google maps.
 - Created windows service with TopShelf that acts as a web server and hosts the online ordering system.
 - Wrote in-process CQRS style backend using MediatR and delivered via Web API.
-- Developed tablet-based companion application to take dine-in orders.
-
+- Wrote a tablet-based companion application to take dine-in orders.
 
 Software Engineer
 2008 - 2010
 C&E Software Solutions Ltd
-
 
 - Wrote C# and WinForms applications that record sales, monitor inventory, keep customer ledger, and bill customer for a drinking water plant and distribution company that serves over 20000 customers.
 - Wrote advanced algorithms in C# to detect imminent system failure by extracting various parameters from hardware log files, which were used within the application.
@@ -130,10 +123,9 @@ C&E Software Solutions Ltd
 - Assisted in the design and development web-based application for a money exchange company using PHP and MySQL.
 - Enhanced, refined and customized C&E Hospital Management and C&E Accounting System for individual client needs and then worked with engineers to ensure successful installation at client sites.
 
-
 #### Open Source
 - Core team member of Aurelia Framework
-- Contributed to Aurelia, JSPM, SystemJS, SystemJS Builder, Fluent Migrator, Humanizer etc.
+- Contributed to Aurelia, JSPM, SystemJS, SystemJS Builder, Fluent Migrator, Humanizer, etc.
 
 #### Hobbies and Interests
 - Contributing to open-source projects.
