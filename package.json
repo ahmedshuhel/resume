@@ -4,7 +4,7 @@
   "description": "---",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ahmedshuhel/resume#readme",
   "dependencies": {
-    "markdown-pdf": "^7.0.0"
+    "markdown-pdf": "^9.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
