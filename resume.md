@@ -85,7 +85,7 @@ Lead the development effort of the company’s flagship product, Hospital ERP. T
 
 *Highlights*:
 - Led effort in requirement gathering and analysis by collaborating with domain experts and stakeholders
-- Created a high fidelity mock up’s using Auxre RP and shared with stakeholders and users to understand the true user experience.
+- Created high fidelity mockups using Auxre RP and shared with stakeholders and users to understand true user experience.
 - Developed SPAs (Single Page Applications) using AngularJS and Angular Material one per module
 - Wrote and structured the backend API by isolating them into Bounded Contexts, delivered the API via Web API framework ensuring RESTfull characteristics.
 - Integrated with OpenID Connect based authentication/authorization servers for single sign-on across multiple apps/submodules.
