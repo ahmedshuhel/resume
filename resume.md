@@ -15,9 +15,9 @@ Github: http://github.com/ahmedshuhel
 Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, SOA, MVVM, MVP, MVC, User Experience.
 
 #### Technology Stack
-**Client Side:** JavaScript, React, Aurelia, DurandalJS, AngularJS, Winforms, WPF.
+**Client Side:** JavaScript, React, AngularJS, Aurelia, DurandalJS, Winforms.
 **Server Side:** Python, .NET, Node.
-**Database:**  MS SQL Server, MySQL, MongoDB
+**Database:**  MS SQL Server, MySQL,  MongoDB
 
 #### Programming Language
 | Language  |Level         | Known since |
@@ -36,12 +36,11 @@ NewsCred Inc.
 - Developed NewsCred for Sales, an ABCM system, that helps the Sales Department engage with Leads and Opportunities via content.
 - Developed an internal tool for tracking original content budgets, improving the productivity of the Editorial team by more than 70%
 - Developed tools to measure Content Marketing maturity of customers, improving efficiency in deployment and program adoption.
-- Modeled an automated data pipeline which aggregates data from various sources to AWS Redshift and then created data visualization to understand the trend, usage pattern, etc.
+- Modeled an automated data pipeline which aggregates data from various sources to AWS Redshift and then created data visualization to understand/analyze the trends, usage patterns, etc.
 - Wrote services and APIs on AWS EC2 using Django REST Framework, Flask, NodeJS, MySQL, and Elasticsearch, automated infrastructure management using Ansible, built CI/CD pipelines using Jenkins.
 - Decomposed an existing monolithic system into a microservice architecture to achieve stability and scalability.
 - Lead and guide engineering teams to design scalable systems and cooperate with the Product Manager to plan and schedule.
 - Managing 4 software engineers as an engineering manager and assisting them to grow in the organization.
-- Line manage a group of talented software engineers, guide them to perform on their highest potential and achieve their career goal by providing regular feedback and conducting one on ones.
 
 2012-2016
 Senior Software Engineer
