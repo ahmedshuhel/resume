@@ -6,7 +6,6 @@ Github: http://github.com/ahmedshuhel
 ---
 
 #### Summary
-
 - Full-stack software engineer offering 10+ years of experience working in a variety of environments with a breadth of programs and technologies.
 - Extensive experience in Agile Development, Test-Driven Development, Domain-Driven Design, Object-Oriented Design, Service Oriented Architecture.
 - Experience in building high traffic web applications and APIs, large-scale data processing systems on the AWS Platform.
@@ -19,18 +18,14 @@ Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven d
 **Client Side:** JavaScript, React, Aurelia, DurandalJS, AngularJS, Winforms, WPF.
 **Server Side:** Python, .NET, Node.
 **Database:**  MS SQL Server, MySQL, MongoDB
-**UI Prototyping:** Axure RP
-**Operating System:** Windows, Linux
 
 #### Programming Language
-
 | Language  |Level         | Known since |
 |-----------|--------------|------------:|
 | Python    | Professional |2013         |
 | JavaScript| Professional |2007         |
 | C#        | Professional |2005         |
 | Typescript| Intermediate |2014         |
-
 
 #### Experience
 2016-Present
