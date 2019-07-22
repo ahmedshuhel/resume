@@ -57,10 +57,7 @@ C&E Software Solutions
 - Implemented a visual query builder and a search platform that operates on a highly de-normalized data repository containing a huge volume of data.
 - Decomposed an existing monolithic system into a microservice architecture to achieve tarted performance improvement.
 - Wrote scaffolders in PowerShell and a helper framework that cut down the development time from 6/7 days to 5/6 hours for developers.
-- Wrote/implemented an algorithm in C# to arrange/sort c# DTO types/objects in terms of dependency during runtime that facilitated reliable change detection and updating/patching.
 - Led a team of 5 engineers and provided training on TDD/BDD, CI/CD and frameworks like AngularJS, Angular Material, ASP.NET MVC, etc.
-- Led effort in requirement gathering and analysis by collaborating with domain experts and stakeholders. Created high fidelity mock-ups with Auxre RP to understand and deliver the desired user experience.
-- Implemented OpenID Connect based authentication/authorization with IdentityServer for single sign-on across multiple apps.
 - Implemented a CI/CD pipeline with TeamCity. Providing continuous integration and unit testing on .NET based projects which are used in the company's core product.
 
 Software Developer
@@ -68,10 +65,7 @@ Software Developer
 PosCube(Independent Developer)
 
 - Designed and developed a restaurant management system (RMS) and integrated online order processing system that is being used by over 150 UK restaurants. The system is designed and optimized for POS hardware.
-- Developed and evolved a touch-based UI with WinForms that works with POS terminal by carefully observing usage patterns - achieving a level of user-friendliness that sets us apart.
-- Developed an MVC framework for WinForms with SPA like experience and used in the application.
-- Integrated with hardware like POS printer, Label Printer, Caller Id via direct interfacing COM, USB, and serial ports interfacing as well as supporting OPOS standards via POS.NET.
-- Implemented a windows installer for the application with WIX that also creates the backend database and let users configure the system during installation.
+- Build an MVC framework for WinForms with SPA like experience and used in the application.
 - Designed and developed a tablet-based companion application to take dine-in orders.
 - Developed an online ordering system for restaurants.
 
@@ -79,8 +73,8 @@ Software Engineer
 2008 - 2010
 C&E Software Solutions Ltd
 
-- Wrote C# and WinForms applications that record sales, monitor inventory, keep customer ledger, and bill customer for a drinking water plant and distribution company.
-- Wrote a utility billing software for supermarket/shopping centers using C#, .NET, and Winforms.
+- Developed C# and WinForms applications that record sales, monitor inventory, keep customer ledger, and bill customer for a drinking water plant and distribution company.
+- Designed and Developed a utility billing software for supermarket/shopping centers using C#, .NET, and Winforms.
 
 #### Education
 Metropolitan University – Sylhet, Bangladesh, 2008
