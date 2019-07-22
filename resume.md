@@ -73,8 +73,8 @@ Metropolitan University – Sylhet, Bangladesh, 2008
 B.Sc., Computer Science & Engineering  
 
 #### Open Source
-- Core team member of Aurelia Framework
-- Contributed to [Aurelia](https://github.com/aurelia/framework), [JSPM](https://github.com/jspm/jspm-cli), SystemJS Builder, Fluent Migrator, Humanizer, etc.
+- Core team member of [Aurelia Framework](https://aurelia.io/)
+- Contributed to [Aurelia Bundler](https://github.com/aurelia/bundler), [Aurelia CLI](https://github.com/aurelia/cli), [Aurelia](https://github.com/aurelia/framework), [JSPM](https://github.com/jspm/jspm-cli),  SystemJS Builder, Fluent Migrator, Humanizer, etc.
 
 #### Hobbies and Interests
 - Contributing to open-source projects.
