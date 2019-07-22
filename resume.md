@@ -42,10 +42,9 @@ NewsCred Inc.
 - Developed NewsCred for Sales, an ABCM system, that helps the Sales Department engage with Leads and Opportunities via content.
 - Developed an internal tool for tracking original content budgets, improving the productivity of the Editorial team by more than 70%
 - Developed tools to measure Content Marketing maturity of customers, improving efficiency in deployment and program adoption.
-- Modeled an automated data pipeline which aggregates data from various sources to AWS Redshift and then created data visualization to understand trend, usage pattern, etc.
+- Modeled an automated data pipeline which aggregates data from various sources to AWS Redshift and then created data visualization to understand the trend, usage pattern, etc.
 - Wrote services and APIs on AWS EC2 using Django REST Framework, Flask, NodeJS, MySQL, and Elasticsearch, automated infrastructure management using Ansible, built CI/CD pipelines using Jenkins.
-- Owning team's technical backlog and partner with the Product Manager on planning activities.
-- Lead and guide engineering teams to design scalable systems and cooperate with Product Manager to plan and schedule.
+- Lead and guide engineering teams to design scalable systems and cooperate with the Product Manager to plan and schedule.
 - Managing 4 software engineers as an engineering manager and assisting them to grow in the organization.
 - Line manage a group of talented software engineers, guide them to perform on their highest potential and achieve their career goal by providing regular feedback and conducting one on ones.
 
@@ -57,10 +56,10 @@ C&E Software Solutions
 - Led the development effort of the company’s flagship product, Hospital ERP. This complex system consists several sub-modules including OPD, IPD, Nursing Station, Admission, Emergency, OT, Day Care Center, Diagnostic Center, Follow Up and Prescription, MRD, MIS, and Accounting, Billing, Payroll, HRM, etc.
 - Implemented a visual query builder and a search platform that operates on a highly de-normalized data repository containing a huge volume of data.
 - Decomposed an existing monolithic system into a microservice architecture to achieve tarted performance improvement.
-- Wrote scaffolders in PowerShell and a helper framework that cut down development time from 6/7 days to 5/6 hours for developers.
+- Wrote scaffolders in PowerShell and a helper framework that cut down the development time from 6/7 days to 5/6 hours for developers.
 - Wrote/implemented an algorithm in C# to arrange/sort c# DTO types/objects in terms of dependency during runtime that facilitated reliable change detection and updating/patching.
 - Led a team of 5 engineers and provided training on TDD/BDD, CI/CD and frameworks like AngularJS, Angular Material, ASP.NET MVC, etc.
-- Led effort in requirement gathering and analysis by collaborating with domain experts and stakeholders. Created high fidelity mock-ups with Auxre RP to understand and delover desired user experience.
+- Led effort in requirement gathering and analysis by collaborating with domain experts and stakeholders. Created high fidelity mock-ups with Auxre RP to understand and deliver the desired user experience.
 - Implemented OpenID Connect based authentication/authorization with IdentityServer for single sign-on across multiple apps.
 - Implemented a CI/CD pipeline with TeamCity. Providing continuous integration and unit testing on .NET based projects which are used in the company's core product.
 
