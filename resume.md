@@ -1,7 +1,7 @@
 ### Shuhel Ahmed
-Sylhet, Bangladesh
-Email: shuhel@ymail.com
-Github: http://github.com/ahmedshuhel
+Sylhet, Bangladesh  
+Email: shuhel@ymail.com  
+Github: http://github.com/ahmedshuhel  
 
 ---
 
@@ -28,9 +28,9 @@ Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven d
 | Typescript| Intermediate |2014         |
 
 #### Experience
-2016-Present
-Tech Lead & Enginnering Manager
-NewsCred Inc.
+**2016-Present**  
+Tech Lead & Enginnering Manager  
+NewsCred Inc.  
 
 - Led effort in re-writing and improving core product area in Content Marketing Platform in ReactJS from AngularJS.
 - Developed NewsCred for Sales, an ABCM system, that helps the Sales Department engage with Leads and Opportunities via content.
@@ -42,9 +42,9 @@ NewsCred Inc.
 - Lead and guide engineering teams to design scalable systems and cooperate with the Product Manager to plan and schedule.
 - Managing 4 software engineers as an engineering manager and assisting them to grow in the organization.
 
-2012-2016
-Senior Software Engineer
-C&E Software Solutions
+**2012-2016**  
+Senior Software Engineer  
+C&E Software Solutions Ltd.  
 
 - Developed an ERP solution for one of the largest government organizations with over 150000 users. The system manages 820 units located across the country and over 250000 people. The solution consists of several modules like HRM, Accounting, Training, Result Processing, Stock & Inventory, Ration Management, POL Management, Point of Sale, etc.
 - Led the development effort of the company’s flagship product, Hospital ERP. This complex system consists several sub-modules including OPD, IPD, Nursing Station, Admission, Emergency, OT, Day Care Center, Diagnostic Center, Follow Up and Prescription, MRD, MIS, and Accounting, Billing, Payroll, HRM, etc.
@@ -52,25 +52,25 @@ C&E Software Solutions
 - Wrote scaffolders in PowerShell and a helper framework that cut down the development time from 6/7 days to 5/6 hours for developers.
 - Led a team of 5 engineers and provided training on TDD/BDD, CI/CD and frameworks like AngularJS, Angular Material, ASP.NET MVC, etc.
 
-Software Developer
-2010 - 2012
-PosCube(Independent Developer)
+**2010-2012**  
+Independent Developer  
+PosCube  
 
 - Designed and developed a restaurant management system (RMS) and integrated online order processing system that is being used by over 150 UK restaurants. The system is designed and optimized for POS hardware.
 - Build an MVC framework for WinForms with SPA like experience and used in the application.
 - Designed and developed a tablet-based companion application to take dine-in orders.
 - Developed an online ordering system for restaurants.
 
-Software Engineer
-2008 - 2010
-C&E Software Solutions Ltd
+**2008-2010**  
+Software Engineer  
+C&E Software Solutions Ltd.  
 
 - Developed C# and WinForms applications that record sales, monitor inventory, keep customer ledger, and bill customer for a drinking water plant and distribution company.
 - Designed and Developed a utility billing software for supermarket/shopping centers using C#, .NET, and Winforms.
 
 #### Education
-Metropolitan University – Sylhet, Bangladesh, 2008
-B.Sc., Computer Science & Engineering
+Metropolitan University – Sylhet, Bangladesh, 2008  
+B.Sc., Computer Science & Engineering  
 
 #### Open Source
 - Core team member of Aurelia Framework
