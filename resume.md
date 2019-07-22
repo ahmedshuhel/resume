@@ -10,7 +10,6 @@ Github: http://github.com/ahmedshuhel
 - Full-stack software engineer offering 10+ years of experience working in a variety of environments with a breadth of programs and technologies.
 - Extensive experience in Agile Development, Test-Driven Development, Domain-Driven Design, Object-Oriented Design, Service Oriented Architecture.
 - Experience in building high traffic web applications and APIs, large-scale data processing systems on the AWS Platform.
-- Strong exposure to infrastructure orchestration tools (Ansible, Docker), and Linux as a programming environment.
 - Proven track record in providing technical leadership.
 
 #### Key areas
