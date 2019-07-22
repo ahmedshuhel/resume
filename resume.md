@@ -15,9 +15,9 @@ Github: http://github.com/ahmedshuhel
 Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, SOA, MVVM, MVP, MVC, User Experience.
 
 #### Technology Stack
-**Client Side:** JavaScript, React, AngularJS, Aurelia, DurandalJS, Winforms.
-**Server Side:** Python, .NET, Node.
-**Database:**  MS SQL Server, MySQL,  MongoDB
+**Client Side:** JavaScript, React, AngularJS, Aurelia, DurandalJS, Winforms.  
+**Server Side:** Python, .NET, Node.  
+**Database:**  MS SQL Server, MySQL,  MongoDB  
 
 #### Programming Language
 | Language  |Level         | Known since |
