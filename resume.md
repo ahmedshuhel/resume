@@ -12,7 +12,7 @@ Github: http://github.com/ahmedshuhel
 - Proven track record in providing technical leadership.
 
 #### Key areas
-Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, SOA, MVVM, MVP, MVC, User Experience.
+Enterprise Applications, Agile, Databases (SQL/NoSQL), JavaScript, Test-driven development (TDD/BDD), SPA, Domain Driven Design, CQRS, Event Sourcing, Design Patterns. REST, Microservice, MVVM, MVP, MVC, User Experience.
 
 #### Technology Stack
 **Client Side:** JavaScript, React, AngularJS, Aurelia, DurandalJS, Winforms.  
