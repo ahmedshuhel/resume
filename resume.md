@@ -38,6 +38,7 @@ NewsCred Inc.
 - Developed tools to measure Content Marketing maturity of customers, improving efficiency in deployment and program adoption.
 - Modeled an automated data pipeline which aggregates data from various sources to AWS Redshift and then created data visualization to understand/analyze the trends, usage patterns, etc.
 - Wrote services and APIs on AWS EC2 using Django REST Framework, Flask, NodeJS, MySQL, and Elasticsearch, automated infrastructure management using Ansible, built CI/CD pipelines using Jenkins.
+- Implemented multi-factor authentication in the OAuth2/OpenId Connect based single sign-on server to comply with security requirements of enterprise customers.
 - Decomposed an existing monolithic system into a microservice architecture to achieve stability and scalability.
 - Lead and guide engineering teams to design scalable systems and cooperate with the Product Manager to plan and schedule.
 - Managing 4 software engineers as an engineering manager and assisting them to grow in the organization.
