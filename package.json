@@ -4,7 +4,8 @@
   "description": "---",
   "main": "index.js",
   "scripts": {
-    "build": "gulp"
+    "build": "gulp",
+    "develop": "chokidar resume.md pdf.css gulpfile.js -c 'yarn build'"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/ahmedshuhel/resume#readme",
   "dependencies": {
+    "chokidar-cli": "^2.0.0",
     "markdown-pdf": "^9.0.0"
   },
   "devDependencies": {
