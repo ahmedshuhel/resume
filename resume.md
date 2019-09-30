@@ -54,7 +54,7 @@ C&E Software Solutions Ltd., Sylhet, Bangladesh
 
 **2010-2012**  
 Independent Contractor(Remote)  
-PosCube, Surrey, UK  
+Xerasoft Ltd, Surrey, UK  
 
 - Designed and developed a restaurant management system (RMS) and online order processing system that is being used by over 150 restaurants in the UK. Integrated with Printer, Caller Id, Customer Display using UnifiedPOS/POS.NET.
 - Created a Model-View-Controller (MVC) framework in C#/WinForms to achieve SPA like experience and used in the RMS application.
