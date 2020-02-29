@@ -7,7 +7,7 @@ Cell/Mobile: +8801834548051
 ---
 
 ### Summary
-- Full-stack software engineer offering 7+ years of experience working in a variety of environments with a breadth of programs and technologies.
+- Full-stack software engineer offering 5+ years of experience working in a variety of environments with a breadth of programs and technologies.
 - Extensive experience in Agile Development, Test-Driven Development, Domain-Driven Design, Object-Oriented Design, and Service Oriented Architecture.
 - Experience in building high traffic web applications and APIs, large-scale data processing systems on the AWS Platform.
 - Proven track records of providing technical leadership.
